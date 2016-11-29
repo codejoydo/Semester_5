@@ -1,0 +1,10 @@
+There is no difference between the original image
+and the reconstructed image.
+Use of integral image is to know about the gradient
+of the image.
+If at some portion of the image, there is a very sharp
+contrast in the lighting, then it reflects out in the
+integral image.
+SURF detector makes use of the gradient between regions.
+Therefore, integral image helps in faster calculation of
+subregion sums and speeds up the feature detection process.

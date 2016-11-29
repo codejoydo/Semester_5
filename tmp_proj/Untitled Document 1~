@@ -1,0 +1,257 @@
+[2007]
+
+	ready 39
+	head 73
+	player 7
+	ball 5
+	bojama 10488
+	racket 3
+	dress 25
+	racquet 9
+	rus 14908
+	court 2
+	open 141
+	top 30
+	bychkova 4926
+	ekaterina 6442
+	citizen 2425
+	white 17
+	srb 10009
+	jovanovski 7753
+	play 6
+	woman 0
+	hit 10
+	get 32
+	express 1286
+	ladies 11
+	tennis 1
+	game 44
+	serve 27
+	open 5741
+	us 147
+	american 284
+	swing 15
+
+	['ready', 'head', 'player', 'ball', 'bojama', 'racket', 'dress', 'racquet', 'rus', 'court', 'open', 'top', 'bychkova', 'ekaterina', 'citizen', 'white', 'srb', 'jovanovski', 'play', 'woman', 'hit', 		'get', 'express', 'ladies', 'tennis', 'game', 'serve', 'open', 'us', 'american', 'swing']
+
+	ready 17
+	head 105
+	player 3
+	ball 4
+	racket 10
+	dress 65
+	rus 21682
+	court 8
+	open 185
+	top 53
+	citizen 24625
+	white 27
+	play 9
+	woman 2
+	hit 12
+	get 19
+	express 241
+	ladies 39
+	tennis 0
+	game 13
+	serve 46
+	us 112
+	american 221
+	swing 11
+
+	
+['ready', 'head', 'player', 'ball', 'bojama', 'racket', 'dress', 'racquet', 'rus', 'court', 'open', 'top', 'bychkova', 'ekaterina', 'citizen', 'white', 'srb', 'jovanovski', 'play', 'woman', 'hit', 		'get', 'express', 'ladies', 'tennis', 'game', 'serve', 'open', 'us', 'american', 'swing']
+
+	[3602]
+
+
+	westerville 3210
+	suspend 1925
+	depart 498
+	indic 302
+	sign 1
+	pole 53
+	street 0
+	florist 13115
+	court 140
+	police 68
+	division 512
+	city 13
+	state 195
+	black 72
+	build 3
+	white 22
+	read 148
+	flag 485
+	municipality 8406
+	front 15
+	walk 8
+	house 83
+	car 6
+	tree 88
+	st 54
+	outside 46
+	sidewalk 80
+	side 18
+
+	['westerville', 'suspend', 'depart', 'indic', 'sign', 'pole', 'street', 'florist', 'court', 'police', 'division', 'city', 'state', 'black', 'build', 'white', 'read', 'flag', 'municpality', 'front', 		'walk', 'house', 'car', 'tree', 'st', 'outside', 'sidewalk', 'side']
+
+	suspend 367
+	department 570
+	indic 232
+	sign 1
+	pole 18
+	street 0
+	florist 10011
+	court 164
+	police 82
+	division 408
+	city 6
+	state 78
+	black 44
+	build 7
+	white 26
+	read 54
+	flag 350
+	front 25
+	walk 13
+	house 185
+	car 2
+	tree 14
+	st 74
+	outside 134
+	sidewalk 50
+	side 12
+
+	['westerville', 'suspend', 'depart', 'indic', 'sign', 'pole', 'street', 'florist', 'court', 'police', 'division', 'city', 'state', 'black', 'build', 'white', 'read', 'flag', 'municp', 'front', 		'walk', 'house', 'car', 'tree', 'st', 'outside', 'sidewalk', 'side']
+
+	[5169]
+
+	headlight 831
+	move 52
+	past 56
+	street 4
+	double 23
+	snow 9
+	city 14
+	build 55
+	storm 441
+	red 11
+	flurry 5584
+	passenger 22
+	bus 1
+	fgn 1906
+	snowy 45
+	school 60
+	light 58
+	ride 33
+	drive 18
+	decker 28
+	service 192
+	road 19
+	arriva 6983
+
+	['headlight', 'move', 'past', 'street', 'double', 'snow', 'city', 'build', 'storm', 'red', 'flurri', 'passeng', 'bus', 'fgn', 'snowing', 'school', 'light', 'ride', 'drive', 'decker', 'service', 'road', 'arriva']
+
+	headlight 1916
+	move 82
+	past 107
+	street 3
+	double 4
+	snow 9
+	city 8
+	build 43
+	storm 509
+	red 1
+	flurry 4307
+	passeng 21
+	bus 0
+	snowy 34
+	school 102
+	light 49
+	ride 48
+	drive 7
+	decker 6
+	service 40
+	road 16
+
+	[u'headlight', u'move', u'past', u'street', u'doubl', u'snow', u'citi', u'build', u'storm', u'red', u'flurri', u'passeng', u'bu', u'fgn', u'snowi', u'school', u'light', u'ride', u'drive', u'decker', u'servic', u'road', u'arriva']
+
+	[9287]
+	
+	www 612
+	feature 241
+	photo 93
+	sign 4
+	street 0
+	close 98
+	billboard 750
+	corner 43
+	square 244
+	re 762
+	pax 6895
+	west 522
+	wor 9642
+	city 8
+	busy 45
+	large 9
+	build 1
+	intersect 34
+	taken 150
+	full 182
+	way 69
+	hwy 3094
+	big 54
+	underar 8378
+	hl 8481
+	tall 27
+	one 112
+	day 110
+	bat 130
+	skyscraper 447
+	tavern 1112
+	clear 159
+	surround 164
+	athl 5070
+	time 176
+	many 64
+	side 16
+
+	['www', 'feature', 'photo', 'sign', 'street', 'close', 'billboard', 'corner', 'square', 're', 'pax', 'west', 'wor', 'city', 'busy', 'large', 'build', 'intersect', 'taken', 'full', 'way', 'hwy', 'big', 'underare', 'hl', 'tall', 'one', 'day', 'bat', 'skyscraper', 'tavern', 'clear', 'surround', 'athl', 'time', 'many', 'side']
+
+	www 118
+	featur 210
+	photo 32
+	sign 2
+	street 0
+	close 77
+	billboard 749
+	corner 35
+	squar 111
+	re 704
+	west 278
+	citi 5
+	busi 31
+	larg 9
+	build 1
+	intersect 29
+	taken 239
+	full 181
+	way 41
+	hwi 12888
+	big 39
+	tall 15
+	one 54
+	day 83
+	bat 172
+	skyscrap 258
+	tavern 29565
+	clear 546
+	surround 103
+	time 37
+	mani 52
+	side 13
+	['www', 'featur', 'photo', 'sign', 'street', 'close', 'billboard', 'corner', 'squar', 're', 'pax', 'west', 'wor', 'citi', 'busi', 'larg', 'build', 'intersect', 'taken', 'full', 'way', 'hwi', 'big', 'underar', 'hl', 'tall', 'one', 'day', 'bat', 'skyscrap', u'tavern', u'clear', u'surround', u'athl', u'time', u'mani', u'side']
+
+
+

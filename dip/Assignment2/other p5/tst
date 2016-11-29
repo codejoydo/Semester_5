@@ -1,0 +1,8 @@
+im = imread('bell.jpg');
+theta = 10;
+theta = (pi*theta) / 180;
+t = [cos(theta),sin(theta),0;-sin(theta),cos(theta),0;0,0,1];
+[x,y] = ndgrid(1:size(im,1),1:size(im,2));
+[x1,y1] = ndgrid(1:size(im,1),1:size(im,2));
+inds = 1:size(im,1)*size(im,2);
+inds = inds';

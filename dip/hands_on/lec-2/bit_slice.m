@@ -1,0 +1,28 @@
+A = rgb2gray(imread('out.jpg'));
+A = imread('22.png');
+B1=bitget(A,1); figure, imshow(logical(B1));title('Bit plane 1');
+B2=bitget(A,2); figure, imshow(logical(B2));title('Bit plane 2');
+B3=bitget(A,3); figure, imshow(logical(B3));title('Bit plane 3');
+B4=bitget(A,4); figure, imshow(logical(B4));title('Bit plane 4');
+B5=bitget(A,5); figure, imshow(logical(B5));title('Bit plane 5');
+B6=bitget(A,6); figure, imshow(logical(B6));title('Bit plane 6');
+B7=bitget(A,7); figure, imshow(logical(B7));title('Bit plane 7');
+B8=bitget(A,8); figure, imshow(logical(B8));title('Bit plane 8');
+imshow(A);
+% B1 = B1*255;
+% B1 = uint8(B1);
+% imwrite(B1,'B1.png');
+B1 = rgb2gray(imread('B1.png'));
+B1 = B1/255;
+
+out = zeros(320,190);
+out = uint8(out);
+out = out + B1;
+out = out + B2*2;
+out = out + B3*4;
+out = out + B4*8;
+out = out + B5*16;
+out = out + B6*32;
+out = out + B7*64;
+out = out + B8*128;
+imwrite(out,'22.png');
